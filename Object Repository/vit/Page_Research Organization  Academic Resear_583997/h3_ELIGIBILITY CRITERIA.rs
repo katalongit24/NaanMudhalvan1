@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_ELIGIBILITY CRITERIA</name>
+   <tag></tag>
+   <elementGuidId>05d80bfb-d7e5-4f4e-ad49-676bdafbbc31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-system-main']/div/div/div/section/div/div/div/div/div/div[2]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;ELIGIBILITY CRITERIA&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>9672a684-c0a9-4db6-853b-7d55218e4274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title4</value>
+      <webElementGuid>97efb59d-0041-4d89-9eb3-893d5144dd8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ELIGIBILITY CRITERIA</value>
+      <webElementGuid>bba856fa-c3f4-4f97-870f-84152515cf59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-system-main&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;view view-admissions-research view-id-admissions_research view-display-id-page view-dom-id-06b0792e55e4c15cbb9736900696b1cc&quot;]/div[@class=&quot;view-content&quot;]/section[@class=&quot;section inner_rg_section&quot;]/div[@class=&quot;common_row_30 section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row_mar_minus clearfix&quot;]/div[@class=&quot;col-md-9 col-6-sm col-xs-12&quot;]/div[@class=&quot;sccodian_closeAble course_acc smk_accordion acc_with_icon&quot;]/div[@class=&quot;accordion_in&quot;]/div[@class=&quot;acc_head&quot;]/h3[@class=&quot;title4&quot;]</value>
+      <webElementGuid>9a8659f6-045c-42ca-9e1f-b8e82d2acfb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-system-main']/div/div/div/section/div/div/div/div/div/div[2]/div/h3</value>
+      <webElementGuid>7fd894e9-e435-4dd0-9f67-5e06b5548b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIT-AP campus only Internal Full Time [IFT] category is offered.'])[1]/following::h3[1]</value>
+      <webElementGuid>5aa35205-6a1d-4e9c-aeb4-c7947e003bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIT-Vellore campus only Internal Full Time [IFT] category is offered.'])[1]/following::h3[1]</value>
+      <webElementGuid>0b955f84-5c04-4c06-874e-0eda8f467c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to view Eligibility Criteria'])[1]/preceding::h3[1]</value>
+      <webElementGuid>3855feb9-256f-48d8-96a1-bb7c9557468c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELECTION PROCEDURE'])[1]/preceding::h3[1]</value>
+      <webElementGuid>e4bfe0ff-1405-41da-b4d1-6ebede7b231b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ELIGIBILITY CRITERIA']/parent::*</value>
+      <webElementGuid>83e849ad-7c1c-4289-a2a9-27b154bfa59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h3</value>
+      <webElementGuid>cc91aa8d-1ace-4ee2-be27-b0750a28436e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'ELIGIBILITY CRITERIA' or . = 'ELIGIBILITY CRITERIA')]</value>
+      <webElementGuid>e7ce94bd-3e56-4b9f-aeb6-b8dac87c8f8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

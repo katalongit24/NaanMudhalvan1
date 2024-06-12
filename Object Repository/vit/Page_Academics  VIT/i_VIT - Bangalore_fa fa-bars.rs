@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_VIT - Bangalore_fa fa-bars</name>
+   <tag></tag>
+   <elementGuidId>0ab3e2e6-d1b7-491b-abf8-31835852d301</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-bars</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='stick']/div/div/div[2]/div/div[2]/div/ul/li/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Menu &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>18ff13e3-c7c8-4e2c-93e2-3cbbc61cb349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-bars</value>
+      <webElementGuid>9d6833ec-cba3-42d4-a16b-bfec349b8109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stick&quot;)/div[@class=&quot;menu_pos&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;bck_menu&quot;]/div[@class=&quot;col-md-10 col-sm-10 col-xs-12 menu_mobile&quot;]/div[@class=&quot;vc-mm-menu-h  vc-mm-h-layout-2 vc-mm-container&quot;]/ul[@class=&quot;vc-nav-on-mobile vc-mm-menu&quot;]/li[@class=&quot;vc-menu-item vc-mm-mobile-toggle&quot;]/a[@class=&quot;nav-link vc-mm-mobile-toggle-btn&quot;]/i[@class=&quot;fa fa-bars&quot;]</value>
+      <webElementGuid>3ac0fd5d-bdf7-453e-8e01-3185c4cd3654</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='stick']/div/div/div[2]/div/div[2]/div/ul/li/a/i</value>
+      <webElementGuid>eea8c209-0893-48d4-be36-6967cb6632ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>2e31a0dc-1ea9-45ca-add9-5ae37462b7ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

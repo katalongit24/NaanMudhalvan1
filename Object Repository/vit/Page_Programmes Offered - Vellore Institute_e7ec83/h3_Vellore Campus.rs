@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Vellore Campus</name>
+   <tag></tag>
+   <elementGuidId>fb523348-3451-4b11-bfae-260a4b46d890</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.title4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-system-main']/div/div/div/section/div/div/div/div/div/div/div/div/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Vellore Campus&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>2bbc1912-a107-424f-ba8e-b113a0caff68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title4</value>
+      <webElementGuid>03935f5e-ebbb-4033-bcb7-3534a4f3375e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vellore Campus</value>
+      <webElementGuid>209485f3-7b1f-4497-8038-d7bdd6e3029d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-system-main&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;view view-programmes-offered view-id-programmes_offered view-display-id-page view-dom-id-eb8737afefb659e45aa7b685ac25aef6&quot;]/div[@class=&quot;view-content&quot;]/section[@class=&quot;section inner_rg_section clearfix&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;common_row_30 section&quot;]/div[@class=&quot;row_margin_minus clearfix&quot;]/div[@class=&quot;col-md-9 col-sm-8 col-xs-12 admission_view&quot;]/div[@class=&quot;view view-admission view-id-admission view-display-id-block_5 view-dom-id-e65b2b723c5ca976c0288ef2a3e9de8f&quot;]/div[@class=&quot;view-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;sccodian_closeAble course_acc smk_accordion acc_with_icon&quot;]/div[@class=&quot;accordion_in&quot;]/div[@class=&quot;acc_head&quot;]/h3[@class=&quot;title4&quot;]</value>
+      <webElementGuid>72e4d384-7a0e-45a2-9266-c56dd229adfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-system-main']/div/div/div/section/div/div/div/div/div/div/div/div/div/div/h3</value>
+      <webElementGuid>6c9bd23d-878a-4379-9d58-156ef4a2d219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programmes Offered 2024-25'])[1]/following::h3[1]</value>
+      <webElementGuid>8a5d82cc-30b0-43a2-9792-de0cfcce33cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programmes offered'])[1]/following::h3[2]</value>
+      <webElementGuid>26301048-23d8-4595-84c2-a50b7d6c9ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engineering Programmes'])[1]/preceding::h3[1]</value>
+      <webElementGuid>e60db4a9-324f-4ba9-9f30-77c39bf5d2b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UG Programmes'])[1]/preceding::h3[1]</value>
+      <webElementGuid>8f8c410d-a6b4-45ca-ba81-3f0513114efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vellore Campus']/parent::*</value>
+      <webElementGuid>f94e9e68-eae9-4cce-b019-e8cf6f1a0c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/div/div/div/div/div/h3</value>
+      <webElementGuid>aa0070c3-dd65-4b6d-ac04-2b50fd1a65f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Vellore Campus' or . = 'Vellore Campus')]</value>
+      <webElementGuid>6e6dcc2f-5613-427c-8b1e-7d237c683ef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

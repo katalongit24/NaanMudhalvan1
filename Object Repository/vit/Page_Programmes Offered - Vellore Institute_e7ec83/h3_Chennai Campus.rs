@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Chennai Campus</name>
+   <tag></tag>
+   <elementGuidId>9855cbf3-814d-4ade-9722-0ff0c20c2b43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-system-main']/div/div/div/section/div/div/div/div/div/div/div/div/div[2]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Chennai Campus&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>8c5379f3-7618-4675-8f3c-5bc282266800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title4</value>
+      <webElementGuid>f3b419bc-67ab-4a85-ada1-996db4be7cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chennai Campus</value>
+      <webElementGuid>974404ca-8046-4e4a-9499-80a165520eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-system-main&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;view view-programmes-offered view-id-programmes_offered view-display-id-page view-dom-id-eb8737afefb659e45aa7b685ac25aef6&quot;]/div[@class=&quot;view-content&quot;]/section[@class=&quot;section inner_rg_section clearfix&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;common_row_30 section&quot;]/div[@class=&quot;row_margin_minus clearfix&quot;]/div[@class=&quot;col-md-9 col-sm-8 col-xs-12 admission_view&quot;]/div[@class=&quot;view view-admission view-id-admission view-display-id-block_5 view-dom-id-e65b2b723c5ca976c0288ef2a3e9de8f&quot;]/div[@class=&quot;view-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;sccodian_closeAble course_acc smk_accordion acc_with_icon&quot;]/div[@class=&quot;accordion_in&quot;]/div[@class=&quot;acc_head&quot;]/h3[@class=&quot;title4&quot;]</value>
+      <webElementGuid>fb0216ae-126d-491b-8f9f-92256b2ca8cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-system-main']/div/div/div/section/div/div/div/div/div/div/div/div/div[2]/div/h3</value>
+      <webElementGuid>31f98767-0e14-49de-a098-37921c240306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrated Ph.D  - Internal Full Time only'])[1]/following::h3[1]</value>
+      <webElementGuid>63cadf14-899b-4605-b06b-4c3cde67bfaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ph.D - Internal Full Time only'])[1]/following::h3[1]</value>
+      <webElementGuid>89c0320b-9247-4e6a-ac76-db9a17f83100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engineering Programmes'])[2]/preceding::h3[1]</value>
+      <webElementGuid>8120cd06-369a-4090-a79c-b6dd3a8c1225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UG Programmes'])[2]/preceding::h3[1]</value>
+      <webElementGuid>39b5e44b-5740-482a-8c5c-0dd776351d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chennai Campus']/parent::*</value>
+      <webElementGuid>5dee4c35-21fc-4589-9dba-645bc9f971db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/h3</value>
+      <webElementGuid>e9c3899d-f4e1-4cfd-9f12-2d19e6ec0c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Chennai Campus' or . = 'Chennai Campus')]</value>
+      <webElementGuid>62d60cdf-10d2-4506-8571-1f0b5a864ed9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
