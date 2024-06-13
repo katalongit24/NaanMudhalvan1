@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DemoSuite1,Chrome 125.0.0.0,,,13-06-2024 12:13:44,13-06-2024 12:15:39,1m - 55.536s,FAILED
+,,,,,,,
+Test Cases/University 3/Anna,Chrome 125.0.0.0,,,13-06-2024 12:14:21,13-06-2024 12:14:32,11.144s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 12:14:21,13-06-2024 12:14:23,1.993s,PASSED
+"navigateToUrl(""https://www.annauniv.edu/"")",Chrome 125.0.0.0,,,13-06-2024 12:14:23,13-06-2024 12:14:31,8.088s,PASSED
+"click(findTestObject(""Object Repository/Anna/Page_Anna University, Chennai/a_Core Values""))",Chrome 125.0.0.0,,,13-06-2024 12:14:31,13-06-2024 12:14:32,1.030s,FAILED
+,,,,,,,
+Test Cases/University2/vit,Chrome 125.0.0.0,,,13-06-2024 12:15:22,13-06-2024 12:15:39,16.743s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 12:15:22,13-06-2024 12:15:25,2.514s,PASSED
+"navigateToUrl(""https://vit.ac.in/"")",Chrome 125.0.0.0,,,13-06-2024 12:15:25,13-06-2024 12:15:31,6.496s,PASSED
+"click(findTestObject(""Object Repository/vit/Page_Vellore Institute of Technology  A Pla_f9d186/a_Menu""))",Chrome 125.0.0.0,,,13-06-2024 12:15:31,13-06-2024 12:15:36,4.599s,PASSED
+"click(findTestObject(""Object Repository/vit/Page_Vellore Institute of Technology  A Pla_f9d186/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 12:15:36,13-06-2024 12:15:37,0.958s,PASSED
+"click(findTestObject(""Object Repository/vit/Page_Academics  VIT/i_VIT - Bangalore_fa fa-bars""))",Chrome 125.0.0.0,,,13-06-2024 12:15:37,13-06-2024 12:15:38,0.596s,PASSED
+"click(findTestObject(""Object Repository/vit/Page_Academics  VIT/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 12:15:38,13-06-2024 12:15:38,0.798s,PASSED
+"click(findTestObject(""vit/Page_Academics  VIT/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 12:15:38,13-06-2024 12:15:39,0.766s,FAILED

@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DemoSuite1,Chrome 125.0.0.0,,,13-06-2024 12:18:04,13-06-2024 12:20:30,2m - 26.026s,FAILED
+,,,,,,,
+Test Cases/University 3/Anna,Chrome 125.0.0.0,,,13-06-2024 12:18:42,13-06-2024 12:18:53,10.861s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 12:18:42,13-06-2024 12:18:44,1.986s,PASSED
+"navigateToUrl(""https://www.annauniv.edu/"")",Chrome 125.0.0.0,,,13-06-2024 12:18:44,13-06-2024 12:18:52,8.174s,PASSED
+"click(findTestObject(""Object Repository/Anna/Page_Anna University, Chennai/a_Core Values""))",Chrome 125.0.0.0,,,13-06-2024 12:18:52,13-06-2024 12:18:53,0.676s,FAILED
+,,,,,,,
+Test Cases/University2/vit,Chrome 125.0.0.0,,,13-06-2024 12:19:43,13-06-2024 12:20:01,17.654s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 12:19:43,13-06-2024 12:19:46,2.724s,PASSED
+"navigateToUrl(""https://vit.ac.in/"")",Chrome 125.0.0.0,,,13-06-2024 12:19:46,13-06-2024 12:19:53,7.050s,PASSED
+"click(findTestObject(""Object Repository/vit/Page_Vellore Institute of Technology  A Pla_f9d186/a_Menu""))",Chrome 125.0.0.0,,,13-06-2024 12:19:53,13-06-2024 12:19:58,4.468s,PASSED
+"click(findTestObject(""Object Repository/vit/Page_Vellore Institute of Technology  A Pla_f9d186/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 12:19:58,13-06-2024 12:19:59,1.234s,PASSED
+"click(findTestObject(""Object Repository/vit/Page_Academics  VIT/i_VIT - Bangalore_fa fa-bars""))",Chrome 125.0.0.0,,,13-06-2024 12:19:59,13-06-2024 12:19:59,0.541s,PASSED
+"click(findTestObject(""Object Repository/vit/Page_Academics  VIT/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 12:19:59,13-06-2024 12:20:00,0.852s,PASSED
+"click(findTestObject(""vit/Page_Academics  VIT/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 12:20:00,13-06-2024 12:20:01,0.756s,FAILED
+,,,,,,,
+Test Cases/University1/iitm,Chrome 125.0.0.0,,,13-06-2024 12:20:01,13-06-2024 12:20:30,29.142s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 12:20:01,13-06-2024 12:20:03,2.401s,PASSED
+"navigateToUrl(""https://www.iitm.ac.in/"")",Chrome 125.0.0.0,,,13-06-2024 12:20:03,13-06-2024 12:20:14,10.241s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Indian Institute of Technology Madras/a_Students""))",Chrome 125.0.0.0,,,13-06-2024 12:20:14,13-06-2024 12:20:14,0.737s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Indian Institute of Technology Madras _a6bf05/a_Campus Amenities""))",Chrome 125.0.0.0,,,13-06-2024 12:20:14,13-06-2024 12:20:16,1.648s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Indian Institute of Technology Madras _02704f/a_Toggle Menu""))",Chrome 125.0.0.0,,,13-06-2024 12:20:16,13-06-2024 12:20:17,0.629s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Indian Institute of Technology Madras _02704f/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 12:20:17,13-06-2024 12:20:17,0.329s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Indian Institute of Technology Madras _02704f/a_Study  IITM""))",Chrome 125.0.0.0,,,13-06-2024 12:20:17,13-06-2024 12:20:18,0.567s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Indian Institute of Technology Madras _02704f/a_Non-campus BS programmes""))",Chrome 125.0.0.0,,,13-06-2024 12:20:18,13-06-2024 12:20:18,0.831s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Non-campus BS programmes  Indian Insti_386f0a/a_Toggle Menu""))",Chrome 125.0.0.0,,,13-06-2024 12:20:18,13-06-2024 12:20:19,0.519s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Non-campus BS programmes  Indian Insti_386f0a/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 12:20:19,13-06-2024 12:20:19,0.341s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Non-campus BS programmes  Indian Insti_386f0a/a_Departments""))",Chrome 125.0.0.0,,,13-06-2024 12:20:19,13-06-2024 12:20:20,0.514s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Non-campus BS programmes  Indian Insti_386f0a/a_Aerospace Engineering""))",Chrome 125.0.0.0,,,13-06-2024 12:20:20,13-06-2024 12:20:21,0.756s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Department of Aerospace Engineering  I_ae481f/a_Toggle Menu""))",Chrome 125.0.0.0,,,13-06-2024 12:20:21,13-06-2024 12:20:21,0.560s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Department of Aerospace Engineering  I_ae481f/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 12:20:21,13-06-2024 12:20:21,0.301s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Department of Aerospace Engineering  I_ae481f/a_Study  IITM""))",Chrome 125.0.0.0,,,13-06-2024 12:20:21,13-06-2024 12:20:22,0.583s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Department of Aerospace Engineering  I_ae481f/a_Joint Degree Programmes""))",Chrome 125.0.0.0,,,13-06-2024 12:20:22,13-06-2024 12:20:23,0.512s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Joint Degree Programmes  IIT Madras/div_Toggle Menu""))",Chrome 125.0.0.0,,,13-06-2024 12:20:23,13-06-2024 12:20:26,3.862s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Joint Degree Programmes  IIT Madras/a_Toggle Menu""))",Chrome 125.0.0.0,,,13-06-2024 12:20:26,13-06-2024 12:20:27,0.274s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Joint Degree Programmes  IIT Madras/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 12:20:27,13-06-2024 12:20:27,0.317s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Joint Degree Programmes  IIT Madras/a_Academic Facilities""))",Chrome 125.0.0.0,,,13-06-2024 12:20:27,13-06-2024 12:20:27,0.534s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Joint Degree Programmes  IIT Madras/a_Central Library""))",Chrome 125.0.0.0,,,13-06-2024 12:20:27,13-06-2024 12:20:28,0.794s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Central Library  Indian Institute of T_a5a702/a_Toggle Menu""))",Chrome 125.0.0.0,,,13-06-2024 12:20:28,13-06-2024 12:20:29,0.627s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Central Library  Indian Institute of T_a5a702/a_Research""))",Chrome 125.0.0.0,,,13-06-2024 12:20:29,13-06-2024 12:20:29,0.292s,PASSED
+"click(findTestObject(""Object Repository/iitm-object/Page_Central Library  Indian Institute of T_a5a702/a_Research Areas""))",Chrome 125.0.0.0,,,13-06-2024 12:20:29,13-06-2024 12:20:30,0.864s,PASSED
